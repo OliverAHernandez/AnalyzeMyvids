@@ -1,4 +1,12 @@
-# c9_flask_portfolio_app
-Flask Portfolio App for students @ Clever Programmer deployed from Cloud 9
+# Youtube API/Auth2 App
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+### Credits
+
+Brad Traversy
+[Traversy Media](http://www.traversymedia.com)
+
+### Version
+
+1.0.0
+
